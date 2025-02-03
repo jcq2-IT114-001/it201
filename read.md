@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html>
-<title>Basic Webpage</title>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website</title>
+</head>
+  
 <body>
-
-<h1>Matt Leriche</h1>
-<h2> Fall Semester </h2>
-<p>
-<a href="https://web.njit.edu/~ml529/IT114/Schedule.png">Lab 4 Photo</a>
-<a href="https://web.njit.edu/~ml529/IT114/spade.txt">Car Text</a>
-</p>
-
+  <h1>It202 HomePage</h1> 
+  <p><strong>Jose C. Quispe Ranilla</strong></p>
+  <p><strong>Information technology</strong></p>
+  <p><strong>Web Application</strong></p>
+  <p><strong>jcq2@njit.edu</strong></p>
 
 </body>
 </html>
